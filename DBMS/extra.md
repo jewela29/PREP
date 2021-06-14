@@ -9,3 +9,6 @@
 
 # IN 
 - https://www.techonthenet.com/sql/in.php
+
+# DISTINCT 
+https://www.techonthenet.com/sql/distinct.php
