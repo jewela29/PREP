@@ -11,3 +11,9 @@
 - questions on grant 
 - https://www.programmerinterview.com/database-sql/sql-revoke/
 - revoke questions 
+
+
+# TCL
+- https://www.educba.com/transaction-control-language/
+- everything about tcl commands
+- 
