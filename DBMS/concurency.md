@@ -22,4 +22,19 @@
 - explanation and example and how to prevent it
 - https://www.gatevidyalay.com/concurrency-problems-in-transaction/
 - proper explanation.
+
+
+## lockinf based protocols:
+
+## SIMPLE LOCKING :
+- problems with simple locking 
+- https://www.youtube.com/watch?v=g-kU78P7lKI
+- https://www.educba.com/lock-based-protocols-in-dbms/
+
+
+## SIMPLE 2 PHASE LOCKING 
+- what is simple 2 phase locking 
+- https://www.youtube.com/watch?v=3fPFTbQuSdc
+- problems with simepl 2 phase locking.
 - 
+
