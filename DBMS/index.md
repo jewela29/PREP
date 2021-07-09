@@ -1,0 +1,9 @@
+- https://www.guru99.com/indexing-in-database.html
+- topics you need to cover in indexing 
+- https://www.tutorialcup.com/dbms/indexing.htm
+- detailed indexing with dsadv and examples
+- https://www.sqlshack.com/using-sql-create-index-to-create-clustered-and-non-clustered-indexes/
+- how to create clustured and non clustured indexes
+- https://medium.com/@tarunjain07/clustered-vs-nonclustered-index-b5dfc0221abc
+- clustered and non clustered.
+- 
