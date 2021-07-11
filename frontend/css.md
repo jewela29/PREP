@@ -17,3 +17,12 @@
 - https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css
 - collapsing margin
 - https://css-tricks.com/what-you-should-know-about-collapsing-margins/
+
+
+## FLEXBOX
+- properties of flexbox
+- https://www.youtube.com/watch?v=hwbqquXww-U
+- full playlist of kevil powell
+- https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
+- align items
+- https://www.youtube.com/watch?v=4Oi5xpjoCRk
