@@ -26,3 +26,9 @@
 - https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
 - align items
 - https://www.youtube.com/watch?v=4Oi5xpjoCRk
+
+
+## SEMANTIC TAG
+- https://stackoverflow.com/questions/17272019/why-use-an-html5-semantic-tag-instead-of-div
+- why use semantic tags instead of divs
+- 
